@@ -1,0 +1,26 @@
+/* oppo */
+@font-face {
+	font-family: 'OPPOSans-M';
+	font-style: normal;
+	font-display:swap;
+	src:url('../fonts/OPPOSansOS2-5000-Medium.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'OPPOSans-R';
+	font-style: normal;
+	font-display:swap;
+	src:url('../fonts/OPPOSansOS2-5000-Regular.woff2') format('woff2');
+}
+/* special */
+@font-face {
+	font-family: 'Edo-SZ';
+	font-style: normal;
+	font-display:swap;
+	src:url('../fonts/Edo-SZ.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'YouSheBiaoTiHei';
+	font-style: normal;
+	font-display:swap;
+	src:url('../fonts/YouSheBiaoTiHei-3500.woff2') format('woff2');
+}
